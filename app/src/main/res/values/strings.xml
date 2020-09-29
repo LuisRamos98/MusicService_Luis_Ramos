@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MusicService</string>
+
+    <string-array name="canciones">
+        <item>Michael Jackson - Love Never Felt So Good</item>
+        <item>Michael Jackson - Slave to the Rhythm</item>
+        <item>Michael Jackson - Heal the World</item>
+        <item>Michael Jackson - Pretty Young Thing</item>
+        <item>Michael Jackson - Smooth Criminal</item>
+    </string-array>
+
+</resources>
